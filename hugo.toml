@@ -1,0 +1,11 @@
+baseURL = 'https://knowana.netlify.app/'
+languageCode = 'en-us'
+title = 'Knowana'
+theme = 'LoveIt'
+[params]
+    [params.header]
+        [params.header.title]
+            name = 'Knowana'
+    [params.home]
+        [params.home.profile]
+            subtitle = 'Business Development'
